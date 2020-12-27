@@ -1,0 +1,17 @@
+
+.multi-select {
+    margin: 10px 0 10px 0;
+    width: 97%;
+}
+
+.tester-bug-count-results {
+    margin: 20px 0 0 0;
+}
+
+.tester-bug-count-results ul {
+    list-style:none;
+}
+
+.tester-bug-count-results li {
+    padding-left: 40px;
+}
