@@ -1,0 +1,2 @@
+# CSV Coding Exercise
+Generted using Spring Boot with Java 11. Parses CSV files with Opencvs. Front end built with angular 11, with the multiselect dropdown handled by ng-multiselect-dropdown. Pulling in Angular for the simple front end might have been over kill, but I figured I would go with something closer to Applause's tech stack for this, and it let me pull in the multiselect directive to use.
