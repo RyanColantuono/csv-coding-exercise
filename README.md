@@ -5,7 +5,7 @@ After pulling down code, to get it running:
 1) Install the angular command line if you don't have it: npm install -g @angular/cli
 2) Web dependencies: in src/main/web run 'npm install'
 3) Backend dependencies/build jar: in root folder run 'mvn package'
-4) Start server off of jar: in root folder run 'java -jar target/csvdemo-0.0.1-SNAPSHOT.jar
+4) Start server off of jar: in root folder run 'java -jar target/csvdemo-0.0.1-SNAPSHOT.jar'
 
 Afterwards app should be running and available on http://localhost:8080/
 ![localhost screenshot](screenshot.png)
